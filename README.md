@@ -1,145 +1,91 @@
-# This is Project-13
-<br>
-QuickCart
-<br>
+#  QuickCart
+
 QuickCart is a mobile-first platform designed to connect urban consumers with nearby grocery shops, enabling item reservations and swift deliveries. It also empowers local shopkeepers to manage orders and deliveries efficiently.
-<br>
-🚀 Project Overview
-<br>
-App Name: QuickCart
-<br>
 
-Purpose: Assist customers in locating nearby grocery shops, reserving items, and receiving prompt deliveries.
-<br>
+##  🚀 Project Overview
 
-Target Audience: Busy urban consumers and local shopkeepers aiming to digitize their services.
-<br>
-<br>
++ **App Name: ** Quickcart
 
-❗ Problem Statement
-<br>
++  **Purpose: **Assist customers in locating nearby grocery shops, reserving items, and receiving prompt deliveries.
+
++ **Target Audience: ** Busy urban consumers and local shopkeepers aiming to digitize their services.
+
+## ❗ Problem Statement
 Customers often spend excessive time visiting multiple shops to find available grocery items. Local shopkeepers lack a streamlined method to manage remote orders and deliveries, leading to inefficiencies in inventory visibility and local delivery processes.
-<br>
-<br>
 
-✅ Proposed Solution
-<br>
-QuickCart offers a platform where:<br>
-
-Customers can browse nearby shops, reserve available items, and receive updates via chat or notifications.
-<br>
+##  ✅ Proposed Solution
+QuickCart offers a platform where:  Customers can browse nearby shops, reserve available items, and receive updates via chat or notifications.
 
 Shopkeepers can manage reservations, confirm stock availability, and assign deliveries—all within the app.
-<br> <br>
 
-🔑 Core MVP Features
-<br>
-Customer Side
-<br>
-Register/Login
-<br>
+##  🔑  Core MVP Features
 
-Browse nearby shops
-<br>
+####  Customer Side
 
-Reserve items from shop inventory
-<br>
+- Register/Login
 
-Real-time chat with shopkeeper
-<br>
+- Browse nearby shops
 
-Order status updates
-<br>
+- Reserve items from shop inventory
 
-Shopkeeper Side
-<br>
-Login / Shop dashboard
-<br>
+- Real-time chat with shopkeeper
 
-View reservations
-<br>
+- Order status updates
 
-Confirm/reject orders
-<br>
+####  Shopkeeper Side
+- Login / Shop dashboard
 
-Assign delivery partner
-<br>
+- View reservations
 
-Delivery Partner (Basic)
-<br>
-Receive delivery assignments
-<br>
+- Confirm/reject orders
 
-Mark deliveries as completed
-<br>
+- Assign delivery partner
 
-Excluded in MVP
-<br>
-Online payment integration
-<br>
+#### Delivery Partner (Basic)
+- Receive delivery assignments
 
-Loyalty programs
-<br>
+- Mark deliveries as completed
 
-Inventory auto-syncing
-<br>
-<br>
+####  Excluded in MVPExcluded in MVP
+- Online payment integration
 
-🔄 User Flow
-<br>
-Customer
-<br>
-Login → Browse local shops
-<br>
+- Loyalty programs
 
-Select shop → View available items
-<br>
+- Inventory auto-syncing
 
-Add to cart → Send reservation request
-<br>
+## 🔄 User Flow
+#### Customer
+- Login → Browse local shops
 
-Receive confirmation → Track delivery
-<br>
-<br>
-Shopkeeper
-<br>
-Login → View incoming reservations
-<br>
+- Select shop → View available items
 
-Confirm/reject request
-<br>
+- Add to cart → Send reservation request
 
-Assign to delivery partner
-<br>
+- Receive confirmation → Track delivery
 
-Chat with customer if needed
-<br>
-<br>
+#### Shopkeeper
+- Login → View incoming reservations
 
-🧪 Testing Plan
-<br>
-Internal alpha test with 5 users
-<br>
+- Confirm/reject request
 
-Beta launch in one neighborhood with 10 shops
-<br>
+- Assign to delivery partner
 
-Collect insights via Google Forms and in-app feedback
-<br>
+- Chat with customer if needed
 
-Monitor logs and analytics using Firebase
-<br>
-<br>
+## 🧪 Testing Plan
+- Internal alpha test with 5 users
 
-📌 Next Steps
-<br>
-Integrate mobile payment options (bKash/Nagad)
-<br>
+- Beta launch in one neighborhood with 10 shops
 
-Implement auto inventory updates for shops
-<br>
+- Collect insights via Google Forms and in-app feedback
 
-Expand launch to broader areas with marketing efforts
-<br>
+- Monitor logs and analytics using Firebase
 
-Partner with logistics providers<br>
+## 📌 Next Steps
+- Integrate mobile payment options (bKash/Nagad)
+
+- Implement auto inventory updates for shops
+
+- Expand launch to broader areas with marketing efforts
+
+- Partner with logistics providers
